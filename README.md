@@ -1,4 +1,4 @@
-# BruteFb
+# brutefb
 HACK FACEBOOK DENGAN METODE BRUTEFORCE DI TERMUX
 # Cara Install
 ### $ pkg update && pkg upgrade
