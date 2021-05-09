@@ -29,7 +29,7 @@ if sys.platform == 'linux' or sys.platform == 'linux2':
 
 def cover():
     print '\n    \n    \n    \n    \n     '
-    runntek(GL + '      [-_-] HALLO BANGSAT [-_-]')
+    runntek(GL + '      [-_-] WELLCOME TO BRUTEFORCE [-_-]')
     time.sleep(1)
     print ' '
     print WW + '      \xe2\x96\x84\xe2\x96\x84'
